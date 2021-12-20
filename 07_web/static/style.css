@@ -1,0 +1,20 @@
+body{
+  background-color: black;
+}
+
+p, a{
+        font-size:50px;
+        text-decoration : none;
+        color:white;
+    }
+a{
+  margin-right:30px;
+}
+
+.blue{
+  color:#8183FF
+}
+
+.red{
+  color:#FF8181
+}

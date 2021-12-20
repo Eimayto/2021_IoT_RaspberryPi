@@ -1,0 +1,14 @@
+body{
+    background-color:black;
+    font-size:100px;
+    color:white;
+}
+a{
+    text-decoration:none;
+}
+.red a{
+    color:#FF5C39;
+}
+.blue a{
+    color:powderblue;
+}
